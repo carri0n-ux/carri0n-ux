@@ -1,11 +1,12 @@
+
+
+<p align="center">
+
   <img src="https://64.media.tumblr.com/21788592ef9fc05fa76a1b9804b89e3e/1239a7abc36a253e-0c/s1280x1920/3afa4d3cfc7cf39cda3467dd19c60bcfee2585cc.pnj" alt="effu">
 
 <hr>
 </p>
-
-<p align="center">
   
-<h3>from ponytown :))))) i prob followed u but i dont have my gh on my pony so u are  prolly swag</h3>
 
   <img src="https://64.media.tumblr.com/b96856100e43a3e36dfc705177acc304/20fb2c0082ab33dc-f6/s100x200/82e8971b6be8d0a05699b4956d53a38e10a2115d.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/854c53cfd3f620099ed6b704eb756770/8f9983e96e57484d-21/s100x200/2536ecad145d17604a93fe8b2860247ffc67e56a.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/8138ce775abdb341e9f12553e0b84458/8f9983e96e57484d-80/s100x200/d8155c5529454474136fadc78aadb8cd044211e1.pnj" alt="effu" align="center">
   <img src="https://64.media.tumblr.com/ff79e98756b7b6936d901ea22af9a73e/de1ccaffe8d295a3-23/s100x200/9671009c643a594df9403499c4d5a68e695ac5b9.pnj" alt="effu" align="center">
@@ -34,6 +35,7 @@
                 <img src="https://64.media.tumblr.com/baae9a91c94613b58a4af035a41166c7/4828db80e9685a3f-93/s100x200/a21c2769952520ea04531b44b9337fbcd7af37f4.pnj" alt="effu" align="center">
                 <img src="https://64.media.tumblr.com/288131200f17462d33131a5b98a389d2/ad7161dd0a5c4016-f9/s100x200/079555d1e4a0aeb2592cf13b3e7c3951a9e95c49.pnj" alt="effu" align="center">
 <hr>
+              <img src="https://64.media.tumblr.com/ca5dcc4a61884493608a9852f5dbdabd/37b11d11deaa6616-93/s250x400/fcd0422a5e426d4af54dbde35fe4314f5a885e8f.gifv" alt="effu" align="center">
 
 
 
