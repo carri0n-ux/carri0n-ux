@@ -1,8 +1,8 @@
 
 
-<p align="center">
 
   <img src="https://64.media.tumblr.com/21788592ef9fc05fa76a1b9804b89e3e/1239a7abc36a253e-0c/s1280x1920/3afa4d3cfc7cf39cda3467dd19c60bcfee2585cc.pnj" alt="effu">
+<p align="center">
 
 <hr>
 </p>
@@ -34,9 +34,21 @@
                 <img src="https://64.media.tumblr.com/3ef35f6354fbd7c2c4c58d2987a186ac/831953b8cb0e8aac-13/s100x200/d111abc3edc8aa433b23d7c46d4b8ae1fc9379fd.pnj" alt="effu" align="center">
                 <img src="https://64.media.tumblr.com/baae9a91c94613b58a4af035a41166c7/4828db80e9685a3f-93/s100x200/a21c2769952520ea04531b44b9337fbcd7af37f4.pnj" alt="effu" align="center">
                 <img src="https://64.media.tumblr.com/288131200f17462d33131a5b98a389d2/ad7161dd0a5c4016-f9/s100x200/079555d1e4a0aeb2592cf13b3e7c3951a9e95c49.pnj" alt="effu" align="center">
+                </p>
+
+
 <hr>
-              <img src="https://64.media.tumblr.com/ca5dcc4a61884493608a9852f5dbdabd/37b11d11deaa6616-93/s250x400/fcd0422a5e426d4af54dbde35fe4314f5a885e8f.gifv" alt="effu" align="center">
+<p align="center">
 
 
+
+
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd6095d6-1f93-4539-b12a-08bdded93692/d20osc7-d4f20135-7315-46c7-af1f-d9f1a3e9fee1.jpg/v1/fill/w_99,h_55,q_75,strp/patrick_vaughn_stump__by_whitenightglasses_d20osc7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUiLCJwYXRoIjoiL2YvY2Q2MDk1ZDYtMWY5My00NTM5LWIxMmEtMDhiZGRlZDkzNjkyL2QyMG9zYzctZDRmMjAxMzUtNzMxNS00NmM3LWFmMWYtZDlmMWEzZTlmZWUxLmpwZyIsIndpZHRoIjoiPD05OSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TyljCD-n06qIugsGjHqI5AP2TkW7hFDUtjGt3zajCs8" alt="effu"> <img src="https://64.media.tumblr.com/4ede6103ebad0ffa1a3a5c98ec721a2b/218855e47e29e4e8-11/s100x200/8bb4c003082292154256de813188adea46fdd376.gifv" alt="effu">
+<img src="https://64.media.tumblr.com/feae83eafd1198847e8bdf3d64612f10/851ae322058f1819-72/s100x200/4e4e85e40a002ef588adb284c609d7937a5506d0.pnj" alt="effu">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa2c5d88-9663-4523-97d9-65dabb22d2ee/dh7pdyd-6893a2c6-f4cb-4063-ab2a-d112323ead0b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTJjNWQ4OC05NjYzLTQ1MjMtOTdkOS02NWRhYmIyMmQyZWUvZGg3cGR5ZC02ODkzYTJjNi1mNGNiLTQwNjMtYWIyYS1kMTEyMzIzZWFkMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BiM0dqewNmw3juk6xN6luHkthLn0c0mjZSGIKNZHObM" alt="effu">
+<img src="https://64.media.tumblr.com/5fbb30fb415a013fa08a12cf12eca6be/a5c08282f9447b13-29/s100x200/608ff5fba4b976b27b86ed25d8d0c75b3e1d90f4.gifv" alt="effu">
+<img src="https://64.media.tumblr.com/2c3c8aac11af2b3a6c3924f97f74c1c2/ddb8fb1f6f1e8576-a2/s100x200/f65201fdbf7faed5dceb6ca56e9129fd3e177005.gifv" alt="effu">
+<img src="https://64.media.tumblr.com/a6359aee7474e5319503de87a22670d9/8c02101e642b286b-d8/s100x200/74ddf656d712508f2e6e9872f1dd1ff30d105ee7.gifv" alt="effu">
+<img src="https://64.media.tumblr.com/7809f4879fa74c252f1257698a9b0638/cd8683001d6df136-ea/s100x200/610ba2cb97f3c34cf23ecf51c0f44517e394e558.gifv" alt="effu">
 
 </p>
