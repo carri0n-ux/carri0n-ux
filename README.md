@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/3b/04/22/3b042227a029879f790032a4c52b6d37.jpg" alt="Description" width="500">
+</p>
 
-<img src="https://i.pinimg.com/1200x/9d/57/29/9d5729624b195b6ab114d1cb3b7cbd3e.jpg" alt="Centered Image" style="display: block; margin: 0 auto;" width="500" height="300">
+<p align="center">
 
   <img src="https://64.media.tumblr.com/b96856100e43a3e36dfc705177acc304/20fb2c0082ab33dc-f6/s100x200/82e8971b6be8d0a05699b4956d53a38e10a2115d.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/854c53cfd3f620099ed6b704eb756770/8f9983e96e57484d-21/s100x200/2536ecad145d17604a93fe8b2860247ffc67e56a.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/8138ce775abdb341e9f12553e0b84458/8f9983e96e57484d-80/s100x200/d8155c5529454474136fadc78aadb8cd044211e1.pnj" alt="effu" align="center">
   <img src="https://64.media.tumblr.com/ff79e98756b7b6936d901ea22af9a73e/de1ccaffe8d295a3-23/s100x200/9671009c643a594df9403499c4d5a68e695ac5b9.pnj" alt="effu" align="center">
@@ -15,3 +18,4 @@
   <img src="https://64.media.tumblr.com/e23fbf5e4426cc4a93da45a7a05595e0/6c50edcea171c405-14/s100x200/f976dc93bac5d92637e76611113192d5f4fca439.pnj" alt="effu" align="center">
   <img src="https://64.media.tumblr.com/eb43eda5b12ef3d2576e5cc19793f367/6c50edcea171c405-05/s100x200/bc281bc99f3b1c273e10735774bee691d51abaf3.pnj" alt="effu" align="center">
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1886930e-92fa-4c6d-b4c9-17a247d0e09e/dk3zu75-14388ca2-0ce3-43df-853f-447a1bdccf83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xODg2OTMwZS05MmZhLTRjNmQtYjRjOS0xN2EyNDdkMGUwOWUvZGszenU3NS0xNDM4OGNhMi0wY2UzLTQzZGYtODUzZi00NDdhMWJkY2NmODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LNUCfUOKAR2otGXSqUoHxzGpIuPLGBSi3y_TQycNKtk" alt="effu" align="center">
+</p>
