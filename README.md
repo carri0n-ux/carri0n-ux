@@ -34,6 +34,5 @@
 <hr>
 
 
-  <img src="https://proxy.everskies.com/a/https://tinyurl.com/drv8r5f" alt="effu">
 
 </p>
