@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9d/57/29/9d5729624b195b6ab114d1cb3b7cbd3e.jpg" alt="Description" width="200">
-  <img src="https://i.pinimg.com/736x/98/7a/81/987a81d6bcd9f0595e8cb64d6ea0700b.jpg" alt="Description" width="180">
+  <img src="https://i.pinimg.com/736x/e1/07/10/e107109542f9905158c1eb8844b925fb.jpg" alt="Description" width="160">
+    <img src="https://i.pinimg.com/736x/a8/50/0c/a8500c7d79e175057718c1e1bb6930d6.jpg" alt="Description" width="180">
+
 
 </p>
 
