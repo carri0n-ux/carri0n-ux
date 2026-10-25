@@ -1,9 +1,6 @@
-<p align="center">
- <img src="https://i.pinimg.com/736x/fa/e1/6b/fae16bf5fa86cbfcf58fb5803e11da4a.jpg" alt="Description" width="275">
-  <img src="https://i.pinimg.com/1200x/a5/de/7a/a5de7a5cfdb3f2787a4a1f31dc317a6e.jpg" alt="Description" width="193">
-    <img src="https://i.pinimg.com/736x/a8/50/0c/a8500c7d79e175057718c1e1bb6930d6.jpg" alt="Description" width="260">
-<hr>
+  <img src="https://gifcity.carrd.co/assets/images/gallery47/e75194b9.png?v=3fc8f5cd" alt="effu">
 
+<hr>
 </p>
 
 <p align="center">
@@ -34,6 +31,9 @@
                 <img src="https://64.media.tumblr.com/3ef35f6354fbd7c2c4c58d2987a186ac/831953b8cb0e8aac-13/s100x200/d111abc3edc8aa433b23d7c46d4b8ae1fc9379fd.pnj" alt="effu" align="center">
                 <img src="https://64.media.tumblr.com/baae9a91c94613b58a4af035a41166c7/4828db80e9685a3f-93/s100x200/a21c2769952520ea04531b44b9337fbcd7af37f4.pnj" alt="effu" align="center">
                 <img src="https://64.media.tumblr.com/288131200f17462d33131a5b98a389d2/ad7161dd0a5c4016-f9/s100x200/079555d1e4a0aeb2592cf13b3e7c3951a9e95c49.pnj" alt="effu" align="center">
+<hr>
 
+
+  <img src="https://proxy.everskies.com/a/https://tinyurl.com/drv8r5f" alt="effu">
 
 </p>
