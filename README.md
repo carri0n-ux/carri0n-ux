@@ -1,16 +1,16 @@
-## Hi there 👋
+<div class="text-center-wrapper">
 
-<!--
-**carri0n-ux/carri0n-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://64.media.tumblr.com/b96856100e43a3e36dfc705177acc304/20fb2c0082ab33dc-f6/s100x200/82e8971b6be8d0a05699b4956d53a38e10a2115d.pnj" alt="effu"> <img src="https://64.media.tumblr.com/854c53cfd3f620099ed6b704eb756770/8f9983e96e57484d-21/s100x200/2536ecad145d17604a93fe8b2860247ffc67e56a.pnj" alt="effu"> <img src="https://64.media.tumblr.com/8138ce775abdb341e9f12553e0b84458/8f9983e96e57484d-80/s100x200/d8155c5529454474136fadc78aadb8cd044211e1.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/ff79e98756b7b6936d901ea22af9a73e/de1ccaffe8d295a3-23/s100x200/9671009c643a594df9403499c4d5a68e695ac5b9.pnj" alt="effu">
+<img src="https://external-media.spacehey.net/media/sAWCgiG4b6ypnjGSK-bQeoJ7mcp8ozBqs4rQ95kGhIhU=/https://64.media.tumblr.com/54934d9d224eabc4180ba0cb6db2561c/ac4ceda43d25e75b-65/s100x200/e44451de6bfb2d261abe1b2aa7c56aa567e7c2ad.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/7decdb319e9da5a9c12fd254a68e1aae/68eca7545e0fd2fd-5f/s100x200/12f447eb7ef1312c0d85827ecc4a73bbc495f0c9.gifv" alt="effu">
+<img src="https://64.media.tumblr.com/d177b2d6c588712a295d88fe8096280a/68eca7545e0fd2fd-c7/s100x200/1a7a9f2e796af5d552c8c6397365b1b8a9364799.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/3748392a815b6bed60e1709b56e2ae46/b4e289442d838b70-60/s100x200/dc79c591e7233f3696ef0187d63470139eded549.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/d1a92601604609d6b02edec69ca9c805/e2fd24a0ba8bfb1e-2e/s250x400/d20b2f37cffd142779fee4c2105badcc5a1ec286.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/e2d3861c4086ac7cb086cd0dadc31135/e2fd24a0ba8bfb1e-80/s250x400/936cae787574ffd206e2078ae7c9a15943297fca.pnj" alt="effu">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fa45c6bb-cca7-4ea2-8ac6-05eb431873f2/dbiapan-0eca9334-2777-4d04-8a79-274a89e5a701.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9mYTQ1YzZiYi1jY2E3LTRlYTItOGFjNi0wNWViNDMxODczZjIvZGJpYXBhbi0wZWNhOTMzNC0yNzc3LTRkMDQtOGE3OS0yNzRhODllNWE3MDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.i-cSGP8Z4BVFXR65HVN0QXhWApnd_NYlf2l8zGHAuc0" alt="effu">
+<img src="https://64.media.tumblr.com/c31173f7adc8806ca2529f26bce5e6e4/6c50edcea171c405-ca/s100x200/abc12f531d086c20d50d634934c3e26fbab74ae2.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/d5387d4628b51d41752ddd27b1796602/6c50edcea171c405-d7/s100x200/38f7279d5f60dae834654dcbb094ba68095551a0.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/e23fbf5e4426cc4a93da45a7a05595e0/6c50edcea171c405-14/s100x200/f976dc93bac5d92637e76611113192d5f4fca439.pnj" alt="effu">
+<img src="https://64.media.tumblr.com/eb43eda5b12ef3d2576e5cc19793f367/6c50edcea171c405-05/s100x200/bc281bc99f3b1c273e10735774bee691d51abaf3.pnj" alt="effu">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1886930e-92fa-4c6d-b4c9-17a247d0e09e/dk3zu75-14388ca2-0ce3-43df-853f-447a1bdccf83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xODg2OTMwZS05MmZhLTRjNmQtYjRjOS0xN2EyNDdkMGUwOWUvZGszenU3NS0xNDM4OGNhMi0wY2UzLTQzZGYtODUzZi00NDdhMWJkY2NmODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LNUCfUOKAR2otGXSqUoHxzGpIuPLGBSi3y_TQycNKtk" alt="effu" >
