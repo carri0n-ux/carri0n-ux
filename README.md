@@ -1,4 +1,4 @@
-<div class="text-center-wrapper">
+<img src="https://i.pinimg.com/1200x/9d/57/29/9d5729624b195b6ab114d1cb3b7cbd3e.jpg" alt="effu" align="center" width="400" height="300">
 
 <img src="https://64.media.tumblr.com/b96856100e43a3e36dfc705177acc304/20fb2c0082ab33dc-f6/s100x200/82e8971b6be8d0a05699b4956d53a38e10a2115d.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/854c53cfd3f620099ed6b704eb756770/8f9983e96e57484d-21/s100x200/2536ecad145d17604a93fe8b2860247ffc67e56a.pnj" alt="effu" align="center"> <img src="https://64.media.tumblr.com/8138ce775abdb341e9f12553e0b84458/8f9983e96e57484d-80/s100x200/d8155c5529454474136fadc78aadb8cd044211e1.pnj" alt="effu" align="center">
 <img src="https://64.media.tumblr.com/ff79e98756b7b6936d901ea22af9a73e/de1ccaffe8d295a3-23/s100x200/9671009c643a594df9403499c4d5a68e695ac5b9.pnj" alt="effu" align="center">
