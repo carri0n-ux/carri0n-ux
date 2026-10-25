@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/9d/57/29/9d5729624b195b6ab114d1cb3b7cbd3e.jpg" alt="Centered Image" style="display: block; margin: 0 auto;">
+<img src="https://i.pinimg.com/1200x/9d/57/29/9d5729624b195b6ab114d1cb3b7cbd3e.jpg" alt="fu" style="display: block; margin: 0 auto;">
 
 
 
