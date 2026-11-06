@@ -1,7 +1,7 @@
 
 
 
-  <img src="https://wilardo.crd.co/assets/images/gallery21/c19cffc6_original.png?v=f38baa4b" alt="effu" width="800">
+  <img src="" alt="effu" width="800">
 <p align="center">
 
 <hr>
@@ -65,6 +65,8 @@
 <img src="https://64.media.tumblr.com/dec7657fa1a7a01c5298aaca9cd0e4ea/851a1ef7d7001340-bd/s100x200/1f60c153c33bdd541414d8f4cc2a4bff24dafb1f.pnj" alt="effu">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dbee5c6-7d50-4f18-a870-8142c9071d28/dn3m3zq-33f95229-5926-46d3-8589-5a892c4547e4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZGJlZTVjNi03ZDUwLTRmMTgtYTg3MC04MTQyYzkwNzFkMjgvZG4zbTN6cS0zM2Y5NTIyOS01OTI2LTQ2ZDMtODU4OS01YTg5MmM0NTQ3ZTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DBhSS_3gkMMKLQdVYXFSfSqksm0xPWyNjsSrTOCcJYI" alt="effu">
 <img src="https://64.media.tumblr.com/c55c4a122e19bacdb8e7afa627adaf1b/7de23c499f0d0ae9-da/s100x200/5202b1619e66627a860c52ba67c062b90ed3c03d.gifv" alt="effu">
-<img src="" alt="effu">
+<img src="https://wilardo.crd.co/assets/images/gallery08/1c0835de.png?v=f38baa4b" alt="effu">
+<img src="https://wilardo.crd.co/assets/images/gallery13/39f8b49a.png?v=f38baa4b" alt="effu">
+<img src="https://wilardo.crd.co/assets/images/gallery08/7500e776.png?v=f38baa4b" alt="effu">
 
 </p>
