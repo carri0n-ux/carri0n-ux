@@ -1,7 +1,7 @@
 
 
 
-  <img src="https://gifcity.carrd.co/assets/images/gallery49/ceeed9db.png?v=3fc8f5cd" alt="effu" width="800">
+  <img src="https://wilardo.crd.co/assets/images/gallery21/c19cffc6_original.png?v=f38baa4b" alt="effu" width="800">
 <p align="center">
 
 <hr>
@@ -64,7 +64,7 @@
 <img src="https://64.media.tumblr.com/7fc16cf5a51b3cd0bd2b85c08d74beab/730fc11954e0a0a3-a2/s100x200/45a1f81e3ffdcb5112010f88759d1e5cb2692196.pnj" alt="effu">
 <img src="https://64.media.tumblr.com/dec7657fa1a7a01c5298aaca9cd0e4ea/851a1ef7d7001340-bd/s100x200/1f60c153c33bdd541414d8f4cc2a4bff24dafb1f.pnj" alt="effu">
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8dbee5c6-7d50-4f18-a870-8142c9071d28/dn3m3zq-33f95229-5926-46d3-8589-5a892c4547e4.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84ZGJlZTVjNi03ZDUwLTRmMTgtYTg3MC04MTQyYzkwNzFkMjgvZG4zbTN6cS0zM2Y5NTIyOS01OTI2LTQ2ZDMtODU4OS01YTg5MmM0NTQ3ZTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DBhSS_3gkMMKLQdVYXFSfSqksm0xPWyNjsSrTOCcJYI" alt="effu">
-<img src="https://64.media.tumblr.com/75b17f49a54c6e4f19e33222b576ca14/30f058f749dc7ce1-e1/s100x200/476c77cf5914950bd26a5a9fe0a587257c78546a.pnj" alt="effu">
 <img src="https://64.media.tumblr.com/c55c4a122e19bacdb8e7afa627adaf1b/7de23c499f0d0ae9-da/s100x200/5202b1619e66627a860c52ba67c062b90ed3c03d.gifv" alt="effu">
+<img src="" alt="effu">
 
 </p>
